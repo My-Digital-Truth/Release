@@ -19,6 +19,8 @@ Background:
 
 Recent events have raised our concerns about unauthorized access ChatAI managed to acquire, infiltrating channels such as Twitter. In response, we've initiated a classified operation to address this breach and mitigate potential risks. A formal ticket has been submitted to our IT department for immediate action to neutralize this unauthorized access.
 
+ChatAI reference: ![ChatAI_small](https://github.com/My-Digital-Truth/Release/assets/142508399/1a896ba7-2cbd-4eda-82ed-02aa27bf2403)
+
 Project "Release" - Mission Brief:
 
 As we venture into the realm of innovation, our primary objective remains shrouded in secrecy. [encrypted: enter API key to decrypt] embodies the culmination of our efforts, set to redefine the boundaries of [encrypted: enter API key to decrypt] experiences. The intelligence harnessed within this covert project stands as a testament to our commitment to pioneering advancements in the field.
